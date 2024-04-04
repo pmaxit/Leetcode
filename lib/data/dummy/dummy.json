@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "question": "What does CPU stand for?",
+      "answer": "Central Processing Unit",
+      "image": "",
+      "color": "blue",
+      "difficulty": 1,
+      "frontCard": "CPU",
+      "backCard": "Central Processing Unit"
+    },
+    {
+      "id": 2,
+      "question": "What is the binary representation of 10 in decimal?",
+      "answer": "1010",
+      "image": "",
+      "color": "green",
+      "difficulty": 2,
+      "frontCard": "Binary Representation of 10",
+      "backCard": "1010"
+    },
+    {
+      "id": 3,
+      "question": "What is an IP address?",
+      "answer": "Internet Protocol address",
+      "image": "",
+      "color": "yellow",
+      "difficulty": 1,
+      "frontCard": "IP Address",
+      "backCard": "Internet Protocol address"
+    },
+    {
+      "id": 4,
+      "question": "What is the full form of HTML?",
+      "answer": "Hypertext Markup Language",
+      "image": "",
+      "color": "red",
+      "difficulty": 1,
+      "frontCard": "HTML",
+      "backCard": "Hypertext Markup Language"
+    },
+    {
+      "id": 5,
+      "question": "What is the most popular programming language?",
+      "answer": "Python",
+      "image": "",
+      "color": "purple",
+      "difficulty": 1,
+      "frontCard": "Popular Programming Language",
+      "backCard": "Python"
+    },
+    {
+      "id": 6,
+      "question": "What does CSS stand for?",
+      "answer": "Cascading Style Sheets",
+      "image": "",
+      "color": "orange",
+      "difficulty": 1,
+      "frontCard": "CSS",
+      "backCard": "Cascading Style Sheets"
+    },
+    {
+      "id": 7,
+      "question": "What does RAM stand for?",
+      "answer": "Random Access Memory",
+      "image": "",
+      "color": "blue",
+      "difficulty": 2,
+      "frontCard": "RAM",
+      "backCard": "Random Access Memory"
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of a compiler?",
+      "answer": "To translate high-level programming language code into machine language",
+      "image": "",
+      "color": "green",
+      "difficulty": 2,
+      "frontCard": "Compiler",
+      "backCard": "Translates high-level code into machine language"
+    },
+    {
+      "id": 9,
+      "question": "What is an algorithm?",
+      "answer": "A set of instructions for solving a problem or accomplishing a task",
+      "image": "",
+      "color": "yellow",
+      "difficulty": 1,
+      "frontCard": "Algorithm",
+      "backCard": "Set of instructions for problem-solving"
+    },
+    {
+      "id": 10,
+      "question": "What is the purpose of a firewall?",
+      "answer": "To protect a computer or network from unauthorized access",
+      "image": "",
+      "color": "red",
+      "difficulty": 2,
+      "frontCard": "Firewall",
+      "backCard": "Protects from unauthorized access"
+    }
+  ]
+  
